@@ -1,7 +1,8 @@
 weight = input("Podaj wagę")
-growth = input("Podaj wzrost")
+growth = input("Podaj wzrost") # trzeba zamienić na metry
 
 
-bmi = weight / growth
+bmi = float(weight) / float(growth)
+
 
 print(bmi)
