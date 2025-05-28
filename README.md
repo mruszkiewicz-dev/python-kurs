@@ -1,3 +1,5 @@
+# python-kurs
+
 🐍 Full Stack Data Science & Web Dev with Python
 Kompleksowy kurs programowania w Pythonie, obejmujący pełny przekrój tematów – od podstaw języka, przez programowanie obiektowe i framework Django, aż po analizę danych, machine learning oraz deployment modeli w aplikacjach webowych.
 
@@ -78,4 +80,3 @@ Naucz się Pythona od zera i zbuduj pełną aplikację webową z funkcjonalnośc
 
 📌 Status: W trakcie realizacji
 Obecnie kurs zawiera zdefiniowane moduły i projekty – prace nad implementacją są w toku.
-# python-kurs
